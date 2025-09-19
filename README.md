@@ -1,6 +1,15 @@
-# 💫 About Me:
-  Hi there 👋I'm Benitta , a curious student from Christ Engineering<br>  College Irinjalakuda who loves turning ideas into reality through <br>  coding. I enjoy exploring exploring new tech, building side projects<br>  and sharing what I learn🤗 .<br> ⚡I'm currently learning full stack development and algorithm<br>
+# 💫 About Me
 
+Hi there! 👋 I'm **Benitta**, a curious student from **Christ Engineering College, Irinjalakuda** who loves turning ideas into reality through coding.
+
+Here’s a bit about me:
+
+- 🚀 Passionate about exploring new technologies
+- 🛠️ Enjoy building side projects to sharpen my skills
+- 📚 Love sharing knowledge and learning continuously
+- ⚡ Currently diving deep into **Full Stack Development** and **Algorithms**
+
+Looking forward to connecting and collaborating! 🤗
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/benitta_benadict) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benittabenadict.official@gmail.com) 
